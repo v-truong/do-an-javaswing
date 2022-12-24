@@ -1,0 +1,29 @@
+1. Người dùng:  + hiển thị danh sách người dùng
+		+ hiển thị chi tiết người dùng (thông tin người dùng + danh sách sách liên quan (đang mượn, đã mượn))
+		+ Thêm người dùng
+		+ sửa thông tin người dùng
+		+ Xóa người dùng
+
+2. Sách:	+ hiển thị danh sách sách 
+		+ hiển thị chi tiết sách (thông tin sách + danh sách người dùng đang mượn sách)
+		+ thêm sách
+		+ sửa thông tin sách
+		+ xóa sách
+
+3. Tác giả: 	+ hiển thị danh sách tác giả
+		+ hiển thị thông tin chi tiết tác giả
+		+ thêm tác giả
+		+ sửa thông tin tác giả
+		+ xóa tác giả
+
+4. Thể loại: 	+ hiển thị danh sách thể loại
+		+ hiển thị thông tin chi tiết thể loại
+		+ thêm thể loại
+		+ sửa thông tin thể loại
+		+ xóa thể loại
+
+5. Nhà xuất bản: + hiển thị danh sách nhà xuất bản
+		 + hiển thị thông tin chi tiết nhà xuất bản
+		 + thêm nhà xuất bản
+		 + sửa thông tin nhà xuất bản
+		 + xóa nhà xuất bản

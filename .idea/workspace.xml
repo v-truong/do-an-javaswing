@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a579acf-9749-4d22-b89e-8a091c0cf1aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/PublisherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/PublisherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Account.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Account.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Author.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Author.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Author.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Ifxaoufaprb6ehdWReLR3B0UKh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/MSI BRAVO 15/Documents/NetBeansProjects/Project2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a579acf-9749-4d22-b89e-8a091c0cf1aa" name="Changes" comment="" />
+      <created>1670586504959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670586504959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
